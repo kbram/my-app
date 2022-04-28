@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          testing git husky
+          testing git husky test
         </a>
       </header>
     </div>
